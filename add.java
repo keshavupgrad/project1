@@ -12,3 +12,4 @@ public class Inputfunctions {
    System.out.println("Total = " + n3);
   }
 }
+//is this fil changed
